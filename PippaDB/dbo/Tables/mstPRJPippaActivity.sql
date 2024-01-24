@@ -1,0 +1,8 @@
+﻿CREATE TABLE MstPRJPippaActivity(
+	PippaActivityID INT PRIMARY KEY IDENTITY(1,1) NOT NULL,
+	PippaActivityName VARCHAR(255) NOT NULL,
+	CreatedDate DATETIME NOT NULL,
+	CreatedBy VARCHAR(50) NOT NULL,
+	UpdatedDate DATETIME NULL,
+	UpdatedBy VARCHAR(50) NULL
+)

@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "PippaDB", "PippaDB\PippaDB.sqlproj", "{D09EE04B-59A1-43C9-BB02-DEF6DC4D12FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pippa.DataAccess", "Pippa.DataAccess\Pippa.DataAccess.csproj", "{E1447FFF-7714-4BE5-B9A9-EA00A9ECFA55}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pippa.API", "Pippa.API\Pippa.API.csproj", "{2E109533-1A9A-403B-9628-91DC49079475}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D09EE04B-59A1-43C9-BB02-DEF6DC4D12FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D09EE04B-59A1-43C9-BB02-DEF6DC4D12FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D09EE04B-59A1-43C9-BB02-DEF6DC4D12FD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D09EE04B-59A1-43C9-BB02-DEF6DC4D12FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D09EE04B-59A1-43C9-BB02-DEF6DC4D12FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D09EE04B-59A1-43C9-BB02-DEF6DC4D12FD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E1447FFF-7714-4BE5-B9A9-EA00A9ECFA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1447FFF-7714-4BE5-B9A9-EA00A9ECFA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1447FFF-7714-4BE5-B9A9-EA00A9ECFA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1447FFF-7714-4BE5-B9A9-EA00A9ECFA55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E109533-1A9A-403B-9628-91DC49079475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E109533-1A9A-403B-9628-91DC49079475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E109533-1A9A-403B-9628-91DC49079475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E109533-1A9A-403B-9628-91DC49079475}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA41F4BE-3DDE-41DE-A390-2AB0CF91AAB9}
+	EndGlobalSection
+EndGlobal
