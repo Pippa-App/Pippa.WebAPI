@@ -1,0 +1,10 @@
+﻿C:\Users\david\source\repos\Pippa.WebAPI\Pippa.API\Api.cs
+C:\Users\david\source\repos\Pippa.WebAPI\Pippa.API\Program.cs
+C:\Users\david\source\repos\Pippa.WebAPI\Pippa.API\obj\Debug\net8.0\Pippa.API.GlobalUsings.g.cs
+C:\Users\david\source\repos\Pippa.WebAPI\Pippa.API\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+C:\Users\david\source\repos\Pippa.WebAPI\Pippa.API\obj\Debug\net8.0\Pippa.API.AssemblyInfo.cs
+C:\Users\david\source\repos\Pippa.WebAPI\Pippa.API\obj\Debug\net8.0\Pippa.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\david\source\repos\Pippa.WebAPI\Pippa.API\appsettings.Development.json
+C:\Users\david\source\repos\Pippa.WebAPI\Pippa.API\appsettings.json
+C:\Users\david\source\repos\Pippa.WebAPI\Pippa.API\Pippa.WebAPI.http
+C:\Users\david\source\repos\Pippa.WebAPI\Pippa.API\Properties\launchSettings.json

@@ -1,0 +1,5 @@
+﻿C:\Users\david\source\repos\Pippa.WebAPI\Pippa.DataAccess\Data\IMstPRJPippaActivityData.cs
+C:\Users\david\source\repos\Pippa.WebAPI\Pippa.DataAccess\Data\MstPRJPippaActivityData.cs
+C:\Users\david\source\repos\Pippa.WebAPI\Pippa.DataAccess\DbAccess\ISqlDataAccess.cs
+C:\Users\david\source\repos\Pippa.WebAPI\Pippa.DataAccess\DbAccess\SqlDataAccess.cs
+C:\Users\david\source\repos\Pippa.WebAPI\Pippa.DataAccess\Models\MstPRJPippaActivity.cs

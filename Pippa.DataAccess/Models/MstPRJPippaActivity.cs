@@ -4,7 +4,11 @@ namespace Pippa.DataAccess.Models;
 
 public class MstPRJPippaActivity
 {
-    
+    public MstPRJPippaActivity()
+    {
+
+    }
+
     public int PippaActivityID { get; set; }
     public required string PippaActivityName { get; set; }
     public DateTime CreatedDate { get; set; }
