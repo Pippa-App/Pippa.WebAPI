@@ -15,5 +15,14 @@ public class MstPRJPippaActivityData : IMstPRJPippaActivityData
     public Task<IEnumerable<MstPRJPippaActivity>> GetData() =>
         db.LoadData<MstPRJPippaActivity, dynamic>("dbo.spMstPRJPippaActivity_GetAll", new { });
 
+    public Task Delete(int id) =>
+        db.SaveData("dbo.spMstPRJPippaActivity_Delete", new { PippaActivityID = id });
+
+    public Task Update(int id, string name) =>
+        db.SaveData("dbo.spMstPRJPippaActivity_Update", new { PippaActivityID = id, PippaActivityName = name });
+        
+    public Task InsertItem(MstPRJPippaActivity data) =>
+        db.SaveData("dbo.spmstPRJPippaActivity_Insert", new { PippaActivityName = data.PippaActivityName});
+
 
 }
